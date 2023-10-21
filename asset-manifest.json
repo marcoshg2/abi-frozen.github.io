@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abi-frozen.github.io/static/css/main.3bf1a27e.css",
+    "main.js": "/abi-frozen.github.io/static/js/main.908793fd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/abi-frozen.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/abi-frozen.github.io/index.html",
+    "main.3bf1a27e.css.map": "/abi-frozen.github.io/static/css/main.3bf1a27e.css.map",
+    "main.908793fd.js.map": "/abi-frozen.github.io/static/js/main.908793fd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/abi-frozen.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bf1a27e.css",
+    "static/js/main.908793fd.js"
+  ]
+}
